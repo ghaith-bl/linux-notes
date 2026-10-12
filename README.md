@@ -1,6 +1,6 @@
 # Linux Notes
 
-Personal Linux study notes — fundamentals through RHCSA-level system administration (users, permissions, networking, services, bash scripting, and regex), organized as a reference.
+Personal Linux study notes fundamentals through RHCSA-level system administration (users, permissions, networking, services, bash scripting, and regex), organized as a reference.
 
 ## Contents
 
